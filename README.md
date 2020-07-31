@@ -1,1 +1,1 @@
-"# hammingCode" 
+"# huffmanCode" 
